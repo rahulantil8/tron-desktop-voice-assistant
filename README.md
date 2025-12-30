@@ -21,3 +21,5 @@ A powerful Windows desktop voice assistant built with Python.
 ## ▶️ How to Run
 ```bash
 python main.py
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/9607161b-8b87-43f8-becb-42f60ff61407" />
+
